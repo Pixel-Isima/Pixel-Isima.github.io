@@ -9,8 +9,8 @@ Aujourd'hui est un grand jour ! **Pixel** possède enfin un site tout beau et to
 
 Ce site internet servira avant tout à présenter **les futures évènements** qui auront lieu avec le club : horaires des soirées, Jams (sessions intensives de création de jeux vidéos entre café et raclette) et plus si affinité :D
 
-En plus des évènements, nous réfèrencerons les projets réalisés par nos membres, les liens vers des outils dédiés à la création, des tutos sur la conception dde JV de manière générale.
+En plus des évènements, nous réfèrencerons les projets réalisés par nos membres, les liens vers des outils dédiés à la création, des tutos sur la conception de JV de manière générale.
 
 En bref, n'hésitez pas à suivre le site, *Content is coming* !
 
-Pixelement, Cédric
+Pixellement, Cédric
