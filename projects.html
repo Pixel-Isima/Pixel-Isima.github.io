@@ -7,6 +7,7 @@ priority: 1
 
 
 <div class="home">
+    <h2>Principe de la page</h2>
     <p>
         Vous trouverez sur cette page des projets réalisés par l'équipe Pixel.<br/>
         N'hésitez pas à jouer les curieux, à naviguer et les essayers.
@@ -14,6 +15,8 @@ priority: 1
     <p>
         Promis, ils ont été réalisés avec amour !
     </p>
+    <br/>
+    <h2>Les derniers projets</h2>
     <ul class="post-list">
         {% for post in site.posts %}
             {% if post.categories contains 'project' %}

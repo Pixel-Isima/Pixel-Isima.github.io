@@ -176,6 +176,17 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+
+    h1, h2, h3, h4, h5, h6 {
+        font-weight: $base-font-weight;
+        font-family: $title-font-family;
+        color: $brand-color;
+    }
+
+    h1 {
+        color: $yellow;
+    }
+
 }
 
 .page-heading {
@@ -206,7 +217,7 @@
 .post-link {
     display: block;
     font-size: 24px;
-    color: $yellow;
+    color: $brand-color;
 
 }
 
@@ -246,6 +257,14 @@
         font-size: 36px;
     }
 }
+.post-title {
+    color: $brand-color!important;
+}
+
+.page-title {
+    color: $yellow!important;
+}
+
 .post-summary {
     margin: $spacing-unit 0;
     font-family: $base-font-family, Arial;

@@ -11,7 +11,7 @@ $title-font-family: 'Arvo', 'Open Sans', sans-serif;
 $base-font-size:   18px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+$base-line-height: 1.8;
 
 $spacing-unit:     15px;
 
@@ -20,7 +20,7 @@ $background-color: #fdfdfd;
 $background-color-dark: darken($background-color, 15%);
 $brand-color:      #c15b08;
 
-$yellow:           #ddad19;
+$yellow: #ddb300;
 $black:            #191919;
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -29,10 +29,10 @@ $grey-color-dark:  #c15b08;
 $white-color:      #FFFFFF;
 
 // Width of the content area
-$content-width:    80%;
+$content-width:    75%;
 
-$on-palm:          90%;
-$on-laptop:        80%;
+$on-palm:          80%;
+$on-laptop:        70%;
 
 
 
