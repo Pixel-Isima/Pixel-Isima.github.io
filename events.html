@@ -1,0 +1,27 @@
+---
+layout:  page
+title: Nos évènements
+permalink: /events/
+priority: 4
+---
+
+
+<div class="home">
+
+    <p>
+        Les rendez-vous Pixel ce sont tous les Lundi, à partir de 17h30, dans la salle Isibot.
+    </p>
+
+    <h2>A venir</h2>
+    <p>
+        Parce qu'en plus des habituels, nous vous invitons à nos futurs Jams, Workshop, imprévus...
+    </p>
+
+    <ul class="post-list">
+        {% for post in site.posts %}
+            {% if post.categories contains 'event' %}
+                {% include event-bloc.html %}
+            {% endif %}
+        {% endfor %}
+    </ul>
+</div>

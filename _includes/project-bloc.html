@@ -1,0 +1,16 @@
+<li class="post-bloc">
+
+    <h2 class="post-title">
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </h2>
+
+    {% if post.illustration %}
+    <div class="post-illustration" style="background-image:url('/assets/{{ post.illustration }}')"></div>
+    {% endif %}
+
+    {% if post.summary %}
+    <p class="post-summary">{{ post.summary }}</p>
+    {% endif %}
+    <a class="post-link-small" href="{{ post.url | prepend: site.baseurl }}">Voir le projet</a>
+
+</li>

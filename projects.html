@@ -1,0 +1,24 @@
+---
+layout:  page
+title: Projets
+permalink: /projets/
+priority: 1
+---
+
+
+<div class="home">
+    <p>
+        Vous trouverez sur cette page des projets réalisés par l'équipe Pixel.<br/>
+        N'hésitez pas à jouer les curieux, à naviguer et les essayers.
+    </p>
+    <p>
+        Promis, ils ont été réalisés avec amour !
+    </p>
+    <ul class="post-list">
+        {% for post in site.posts %}
+            {% if post.categories contains 'project' %}
+                {% include project-bloc.html %}
+            {% endif %}
+        {% endfor %}
+    </ul>
+</div>
