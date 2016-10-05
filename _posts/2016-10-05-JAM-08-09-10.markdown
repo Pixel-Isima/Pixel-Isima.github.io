@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Première JAM de l'année 2016 - 2017"
+date:   2016-10-05 12:00:00 +0200
+categories: event
+summary: Les ZZ1 sont enfin installés, il est temps de les initier ...
+---
+
+**La première JAM de l'année scolaire 2016-2017 est arrivée !**
+
+ Dès samedi 8 octobre, rendez-vous au BDE de l'ISIMA pour participer à un week end d'enfer ! Au programme : du code, du café & des segfault !
+
+ Pour participer, il vous suffit de venir armé de votre PC. Veillez tout de même à avoir un setup fonctionnel (IDE, compilateur, bibliothèques etc installés) pour ne pas perdre de temps.  
+ En bonus, l'équipe Pixel vous propose une raclette pour la modique somme de 7€ !
+
+En fin de JAM, les meilleures créateurs (jugés sur la créativité, le gameplay, les easter eggs (aussi appelés bug) et pas uniquement sur la technique et le fonctionnement) seront récompensés par un petit quelque chose. Une raison de plus pour venir nombreux !
+
+On vous attend samedi ;)
