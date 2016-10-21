@@ -1,7 +1,7 @@
 <li class="post-bloc">
 
     <h2 class="post-title">
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">[{{ post.categories }}] {{ post.title }}</a>
     </h2>
     <span class="post-meta">Écrit le {{ post.date | date: "%-d.%m.%Y" }}</span>
 
