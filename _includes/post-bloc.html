@@ -12,6 +12,9 @@
         {% if post.categories contains 'project' %}
           [Projet]
         {% endif %}
+        {% if post.categories contains 'note' %}
+          [Article]
+        {% endif %}
         {{ post.title }}</a>
 
     </h2>
