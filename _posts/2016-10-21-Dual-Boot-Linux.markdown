@@ -29,3 +29,4 @@ Si vous ne savez pas quel distribution linux prendre, je vous propose [Linux min
 Une fois l'iso téléchargé, lancer Windows 7 USB/DVD Tool. Cela vous ouvre une fenêtre avec plusieurs possibilité.
 Selectionner l'option **DisqueImage** puis cliqué sur **...** et selectionner votre iso.
 Dans la liste déroulante à coté de **Lecteur** choisiser votre clé usb et appuyer sur ok.
+Il ne reste plus qu'à attendre la fin de la copie.
