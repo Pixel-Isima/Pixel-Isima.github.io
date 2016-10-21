@@ -8,7 +8,8 @@ summary: Pour tous ceux qui veulent coder avec un vrai OS, voici un petit tuto p
 **Dual Boot Linux**
 
 **Qu'est ce que c'est ?**
-Le dual boot c'est simplement le fait d'avoir 2 systèmes sur sa machine, dans notre cas se sera un dual boot Windows Linux
+
+Le dual boot c'est simplement le fait d'avoir 2 systèmes sur sa machine, dans notre cas ce sera un dual boot Windows-Linux.
 
 
 
