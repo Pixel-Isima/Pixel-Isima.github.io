@@ -9,7 +9,7 @@ summary: Pour tous ceux qui veulent coder avec un vrai OS, voici un petit tuto p
 
 ## Qu'est ce que c'est ?
 
-Le dual boot c'est simplement le fait d'avoir 2 systèmes d'exploitation sur sa machine, dans notre cas ce sera un dual boot Windows-Linux.
+Le dual boot c'est simplement le fait d'avoir 2 systèmes d'exploitation sur sa machine, dans notre cas ce sera un dual boot Windows-Linux. Dans ce tuto vous apprendrez à installer toute les distributions basées sous Ubuntu.
 
 ## Les prérequis
 Pour le dual boot quelques prérequis sont nécessaire :
@@ -30,3 +30,5 @@ Une fois l'iso téléchargé, lancer Windows 7 USB/DVD Tool. Cela vous ouvre une
 Selectionner l'option **DisqueImage** puis cliqué sur **...** et selectionner votre iso.
 Dans la liste déroulante à coté de **Lecteur** choisiser votre clé usb et appuyer sur ok.
 Il ne reste plus qu'à attendre la fin de la copie.
+
+## L'installation
