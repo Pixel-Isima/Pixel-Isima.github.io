@@ -24,4 +24,4 @@ Dans un souci de sécurité, pensez à bien sauvegarder vos données sensible au
 Pour pouvoir installer Linux, nous allons avoir besoin d'une clé bootable.
 Pour ce faire télécharger le logiciel [Windows 7 USB/DVD Tool](http://www.commentcamarche.net/download/telecharger-34087347-windows-7-usb-dvd-download-tool) et installer le.
 
-![alt text](https://github.com/Pixel-Isima/Pixel-Isima.github.io/tree/master/assets/tutoDualBootEtape1.png "first step")
+[alt text](https://github.com/Pixel-Isima/Pixel-Isima.github.io/tree/master/assets/tutoDualBootEtape1.png "first step")
