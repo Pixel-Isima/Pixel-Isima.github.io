@@ -6,6 +6,12 @@
         {% if post.categories contains 'tutorial' %}
           [Tuto]
         {% endif %}
+        {% if post.categories contains 'event' %}
+          [Event]
+        {% endif %}
+        {% if post.categories contains 'project' %}
+          [Projet]
+        {% endif %}
         {{ post.title }}</a>
 
     </h2>
