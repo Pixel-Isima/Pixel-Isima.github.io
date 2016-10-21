@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Dual Boot Linux"
 date: 2016-10-21 08:31:20 -0700
 categories: project
