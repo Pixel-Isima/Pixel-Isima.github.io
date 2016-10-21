@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dual Boot Linux
-date: 2016-10-21 
+date: 2016-10-21 08:31:20 +0200
 categories: note
 summary: Pour tout ceux qui veulent coder sur un vrai OS tout en pouvant continuer à jouer, voici un petit tuto pour un dual boot Linux
 ---
