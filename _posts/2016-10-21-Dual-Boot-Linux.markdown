@@ -32,3 +32,4 @@ Dans la liste déroulante à coté de **Lecteur** choisiser votre clé usb et ap
 Il ne reste plus qu'à attendre la fin de la copie.
 
 ## L'installation
+Maintenant que vous avez touts les outils nécessaire, redémarrez votre ordinateur et booter sur votre clé usb. 
