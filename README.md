@@ -25,6 +25,11 @@ Les layout sont les fichiers .html définissant la structure types des pages et 
 Les includes définissent les layout des aperçus des articles, events & projets.
 
 # Le Markdown et vous
-Les plus subtils diront **[RTFM]**.
+Les plus subtils diront **[RTFM]**.  
+Plus raisonnablement :
+* **[Markdown GitHub flavored]** : la syntax Markdown la plus utilisée, définie par Github pour les README
+* **[Kramdown syntax]** : la syntaxe utilisée pour écrire les pages du site. Elle est semblable à la _Github flavored_ mais peut contenir certaines nuances.
 
 [RTFM]:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#emphasis
+[Markdown GitHub flavored]:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#emphasis
+[Kramdown syntax]:http://kramdown.gettalong.org/syntax.html
