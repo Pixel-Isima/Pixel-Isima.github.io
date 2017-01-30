@@ -99,7 +99,7 @@ Vous pouvez le télécharger à partir du lien suivant :
 Lors du lancement de VirtualBox, vous allez vous retrouver face à la page
 suivante :
 
-![](../assets/tutoDualBoot_ressources/VirtualBox/VBox_init.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/VirtualBox/VBox_init.png)
 
 La première étape est de créer une nouvelle machine virtuelle dans laquelle
 installer le nouvel OS. Vous allez donc commencer par cliquer sur "Nouvelle"
@@ -114,14 +114,14 @@ lorsque vous commencez à avoir 5-6 VM, il est intéressant de savoir rapidement
 vous cherchez.
 Pour le type, il faudra choisir "Linux" dans le cadre de ce tutoriel :
 
-![](../assets/tutoDualBoot_ressources/VirtualBox/Choose_your_dist_1.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/VirtualBox/Choose_your_dist_1.png)
 
 Ensuite, il vous fait choisir une version d'OS. Nous installons Debian 8, je vous
 conseille donc de choisir "Debian (64)".
-![](../assets/tutoDualBoot_ressources/VirtualBox/Choose_your_dist_2.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/VirtualBox/Choose_your_dist_2.png)
 
 Une fois ces champs remplis, vous devriez vous retrouver dans la situation suivante :
-![](../assets/tutoDualBoot_ressources/VirtualBox/Choose_your_dist_3.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/VirtualBox/Choose_your_dist_3.png)
 
 Cliquez alors sur "Suivant".
 
@@ -132,18 +132,18 @@ Pour répondre à ces critères, il est préférable de rester dans la zone vert
 vous recommande un minimum de 2Go de RAM pour être tranquille, mais cela va
 dépendre de votre matériel disponible.
 
-![](../assets/tutoDualBoot_ressources/VirtualBox/Choose_your_ram.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/VirtualBox/Choose_your_ram.png)
 
 Après avoir choisi ce paramétrage, vous pouvez passer à l'étape suivante. On
 vous y demande si vous voulez créer un disque dur virtuel. Vous allez donc choisir la
 deuxième option : "Créer un disque dur virtuel maintenant" :
 
-![](../assets/tutoDualBoot_ressources/VirtualBox/Create_a_VDisk.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/VirtualBox/Create_a_VDisk.png)
 
 Puis cliquez sur "Créer".
 Pour le type de disque dur virtuel, choisissez VDI:
 
-![](../assets/tutoDualBoot_ressources/VirtualBox/Choose_your_VDisk.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/VirtualBox/Choose_your_VDisk.png)
 
 Puis passez à l'étape suivante.
 
@@ -152,7 +152,7 @@ je préfère l'allocation dynamique de mémoire qui évite que la mémoire allou
 la VM soit directement rendue inaccessible. Néanmoins, c’est à vous de choisir ce que
 vous préférez :
 
-![](../assets/tutoDualBoot_ressources/VirtualBox/Choose_allocation_type.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/VirtualBox/Choose_allocation_type.png)
 
 Ensuite, il vous est demandé de sélectionner le volume de disque à allouer à
 votre VM. Dans le cadre d'une allocation de taille fixe, il faudra évidemment que
@@ -162,7 +162,7 @@ histoire d'être large. Une fois cette valeur choisie, cliquez sur "Créer". Vou
 reviendrez à l'écran d'accueil de VirtualBox où vous verrez apparaître le nom de
 votre nouvelle VM :
 
-![](../assets/tutoDualBoot_ressources/VirtualBox/Configuration_ended.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/VirtualBox/Configuration_ended.png)
 
 
 #### Selection de l'ISO
@@ -173,7 +173,7 @@ l'installation de la VM. Sélectionnez votre VM dans la liste et cliquez sur
 VirtualBox vous demandera alors de choisir une image ISO d'installation.
 Choisissez celle que vous avez téléchargée:
 
-![](../assets/tutoDualBoot_ressources/VirtualBox/First_VM_Start.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/VirtualBox/First_VM_Start.png)
 
 L’étape préparatoire est achevée.
 
@@ -185,29 +185,29 @@ une petite différence au moment de choisir le disque d'installation, mais cette
 
 Pour l'heure au démarrage on accède à la page suivante :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/start_install_1.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/start_install_1.png)
 
 Choisissez "Advanced Options". Puis sur la page suivante, choisissez "Graphical
 expert install" :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/Start_install_2.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/Start_install_2.png)
 
 C'est ici que commence l'installation. On arrive sur le menu principal de
 l'installateur. On va commencer par la sélection du langage :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/001_main_menu.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/001_main_menu.png)
 
 Cliquez sur "Continuer". Sur la fenêtre suivante, choisissez une langue :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/002.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/002.png)
 
 Ensuite, choisissez votre position géographique:
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/003_situation_geographique.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/003_situation_geographique.png)
 
 Puis cliquez sur l'encodage clavier que vous souhaitez ("fr_FR.UTF-8")
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/004.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/004.png)
 
 Puis cliquez directement sur "Continuer" à la fenêtre suivante, car le choix
 présélectionné correspond à ce que l'on souhaite.
@@ -216,24 +216,24 @@ Ensuite, on revient au menu principal sur lequel on passe directement à la
 configuration du clavier (je suppose que vous ne nécessitez pas de synthèse
 vocale).
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/005.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/005.png)
 
 Choisissez la langue associée à la disposition du clavier que vous avez :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/006.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/006.png)
 
 Ensuite nous allons passer au montage de la partition d'installation :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/007.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/007.png)
 
 Passez directement à l'étape suivante :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/008.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/008.png)
 
 Puis continuez jusqu'à revenir au menu principal. Nous allons passer au
 chargement des composants d'installation :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/009.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/009.png)
 
 Sur cette nouvelle fenêtre, il va falloir choisir les composants suivants :
 * cfdisk-udeb
@@ -255,35 +255,35 @@ Sur cette nouvelle fenêtre, il va falloir choisir les composants suivants :
 
 et passer à l'étape suivante :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/010.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/010.png)
 
 Passons au chargement des pilotes :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/011.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/011.png)
 
 Sur la page suivante, choisissez "Oui" :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/012.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/012.png)
 
 Puis continuez, quel que soit le résultat.
 
 Nous allons passer à la détection du matériel réseau :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/013.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/013.png)
 
 Puis nous allons paramétrer la connexion réseau :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/014.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/014.png)
 
 Choisissez la configuration automatique du réseau (choisissez oui). Puis
 continuez jusqu'à atteindre la fenêtre suivante :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/015.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/015.png)
 
 Nommez le système à votre guise. Puis continuez jusqu'à revenir au menu
 principal. Nous allons ensuite choisir le miroir de l'archive Debian :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/016.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/016.png)
 
 Choisissez le protocole HTTP, puis le pays (choisissez de préférence le pays
 dans lequel vous êtes pour avoir une connexion plus rapide !) et enfin le
@@ -293,41 +293,41 @@ pouvez cliquer directement sur "Continuer" pour revenir sur le menu principal.
 
 Nous allons poursuivre avec la création du premier utilisateur :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/017.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/017.png)
 
 À cet instant il faut vous poser une question : voulez-vous utiliser la
 connexion de l'utilisateur root ? Si vous ne savez pas ce qu'est l'utilisateur
 root alors je vous conseille de choisir "Non". Je vous conseille également d'activer
 les mots de passe cachés :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/018.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/018.png)
 
 Il va falloir ensuite donner votre nom complet :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/019.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/019.png)
 
 puis choisir un login utilisateur :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/020.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/020.png)
 
 et enfin il va falloir entrer un mot de passe :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/021.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/021.png)
 
 Lancez la libération de mémoire, puis passez à la configuration de l'horloge :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/022.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/022.png)
 
 Confirmez l'utilisation de NTP pour régler l'horloge. Et continuez jusqu'au
 menu principal.
 
 Nous allons passer à la détection des disques durs :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/023.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/023.png)
 
 Une fois cette étape achevée, passons au partitionnement des disques :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/024.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/024.png)
 
 Nous allons avoir une différence entre VM et DualBoot pour cette étape :
 
@@ -338,16 +338,16 @@ sur un disque dur virtuel, vous n'aurez pas besoin de faire vous même le
 partitionnement et vous contenter d'utiliser le partitionnement assisté sur
 disque entier:
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/025.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/025.png)
 
 puis continuer jusqu'à cette fenêtre où vous choisirez "Tout dans une seule
 partition" :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/026.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/026.png)
 
 Vous pourrez ensuite terminer le partitionnement :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/027.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/027.png)
 
 C'est tout ce qu'il y a à faire.
 
@@ -356,16 +356,16 @@ C'est tout ce qu'il y a à faire.
 Pour un DualBoot c'est un peu plus compliqué. On va commencer par choisir un
 partitionnement manuel :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/028.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/028.png)
 
 Ensuite, il va falloir choisir la partition que vous avez créée lors de la phase
 de préparation :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/029.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/029.png)
 
 puis continuer en choisissant "Créer une nouvelle partition" :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/030.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/030.png)
 
 Nous avons trois partitions à créer si vous vous souvenez bien, une partition de
 boot, une partition de swap et une partition de données.
@@ -374,41 +374,41 @@ boot, une partition de swap et une partition de données.
 
 pour la partition de boot vous allez lui allouer 0.5 Gb :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/031.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/031.png)
 
 Placez-la au début :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/032.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/032.png)
 
 Cliquer sur "Utiliser comme" puis sur "Continuer" pour choisir le type de
 partition :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/033.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/033.png)
 
 Il va falloir choisir "Zone réservée pour le secteur d'amorçage BIOS" :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/034.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/034.png)
 
 Puis terminez le paramétrage de cette partition :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/035.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/035.png)
 
 ###### Swap
 
 Cliquez ensuite sur le plus gros "Espace libre" de la partition que vous avez
 réservé pour cette installation. Nous allons y créer la partition de Swap :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/036.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/036.png)
 
 Choisissez à nouveau "Créer une nouvelle partition", puis allouez-lui autant de
 mémoire que vous avez de RAM:
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/037.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/037.png)
 
 Placez-la, elle aussi, au début, et sélectionner encore une fois "Utiliser comme",
 pour choisir le type de partition "espace d'échange ("swap")" :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/038.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/038.png)
 
 Puis terminez le paramétrage de cette partition.
 
@@ -417,28 +417,28 @@ Puis terminez le paramétrage de cette partition.
 Sélectionnez à nouveau le plus gros espace disponible de votre partition
 réservée :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/039.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/039.png)
 
 Puis créez une nouvelle partition et allouez-lui le reste de mémoire
 disponible :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/040.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/040.png)
 
 Laissez les paramètres tels qu'ils sont et terminez le paramétrage de cette
 partition :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/041.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/041.png)
 
 Terminer le partitionnement :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/042.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/042.png)
 
 et validez l'application des changements.
 
 Une fois de retour au menu principal, nous allons passer à l'installation du
 système de base :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/043.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/043.png)
 
 Cette étape peut prendre quelques minutes.
 
@@ -446,26 +446,26 @@ Il va vous être demandé de choisir le noyau Linux à installer. Choisissez
 "linux-image-amd64" (cette valeur pointera toujours sur la dernière version du
 noyau disponible).
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/044.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/044.png)
 
 Pour l'image système, vous avez le choix entre image générique et image ciblée. Je
 vous laisse faire votre choix.
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/045.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/045.png)
 
 #### APT
 
 Nous allons maintenant configurer le gestionnaire de paquet :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/046.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/046.png)
 
 Choisissez non pour la fenêtre suivante :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/047.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/047.png)
 
 Activez l'utilisation d'un miroir réseau :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/048.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/048.png)
 
 Choisissez "HTTP", puis le pays dans lequel vous êtes la majorité du temps (pour
 avoir une connexion plus rapide vers le miroir lors du téléchargement ou de la
@@ -476,16 +476,16 @@ On va par la suite vous demander si vous souhaitez autoriser l'installation de
 logiciels non libres. Ce choix dépend de vous. Personnellement je choisis
 toujours oui :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/049.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/049.png)
 
 Les services à utiliser sont les suivants :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/050.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/050.png)
 
 L'étape suivante est le choix des logiciels à installer, parmi lesquelles,
 l'interface graphique que vous utiliserez.
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/051.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/051.png)
 
 Cette étape est assez longue en général, suivant la qualité de votre connexion
 internet. L'installateur vous demandera si vous souhaitez envoyer des
@@ -510,7 +510,7 @@ du système. Si vous ne savez pas ce que sont ces autres éléments, je vous
 recommande d'installer le serveur d'impression, le serveur SSH et les
 utilitaires, l'interface graphique étant laissée à votre appréciation :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/052.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/052.png)
 
 La suite peut être plus ou moins longue suivant les éléments que vous avez
 choisi et encore une fois votre connexion internet (ne soyez pas surpris si cette étape
@@ -520,13 +520,13 @@ Une fois cette étape achevée, on revient au menu principal d'où l'on va lance
 l'écriture du programme de démarrage (GRUB) sur le disque dur ou le disque
 virtuel :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/053.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/053.png)
 
 Le programme va vous demander si vous souhaitez installer GRUB sur le secteur
 d'amorçage, c'est-à-dire le point du disque dur qui est lu en premier au
 démarrage de l'ordinateur. Choisissez "oui" :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/054.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/054.png)
 
 Pour ceux qui procèdent à l'installation d'un DualBoot ne vous inquiétez pas,
 GRUB vous proposera, à chaque démarrage de l'ordinateur, sur quel OS vous
@@ -534,19 +534,19 @@ souhaitez démarrer avec Debian en temps que valeur par défaut.
 
 Choisissez d'installer GRUB sur le disque dur où votre OS est installé :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/055.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/055.png)
 
 Puis forcez l'installation sur le chemin des supports amovibles EFI :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/056.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/056.png)
 
 Vous pouvez maintenant terminer l'installation :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/057.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/057.png)
 
 Validez l'utilisation de l'horloge UTC :
 
-![](../assets/tutoDualBoot_ressources/InstallateurDebian/058.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/InstallateurDebian/058.png)
 
 Après ce point, votre ordinateur ou votre VM va redémarrer.
 
@@ -561,7 +561,7 @@ taper la commande suivante pour installer les additions clients de VirtualBox :
 sudo apt-get install virtualbox-guest-*
 ```
 
-![](../assets/tutoDualBoot_ressources/TheVM/001.png)
+![]({{ site.url }}/assets/tutoDualBoot_ressources/TheVM/001.png)
 
 Pour terminer cette étape, il vous suffira de redémarrer et votre VM sera
 pleinement opérationnelle.
