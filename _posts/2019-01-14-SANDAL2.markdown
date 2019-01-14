@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Affichage graphique en C (SANDAL2)"
+date : 2019-01-14 10:28:30 +0200
+categories: tutorial
+summary: Vous trouvez l'affichage graphique en C verbeux, long à implémenté et peut pratique ? SANDAL2 devrait vous plaire.
+---
+
+# SANDAL2, un affichage graphique plus simple en C
+
+## Introduction
+
+SANDAL2 est une bibliothèque graphique libre développé par Baptiste PRUNIER 
+(membre Pixel depuis 2016, président 2017-2018) lors de sa première année à l'ISIMA. 
+Le projet est toujours maintenu et s'est développé avec l'aide de David Baldassin 
+(membre Pixel depuis 2017, président 2018-2019).
+
+## Comment faire ?
+
+Le projet est sur [Github](https://github.com/), sa documentation aussi. Vous pourrez la trouver en suivant les liens 
+ci-dessous :
+* [La page du projet](https://klevh.github.io/SANDAL2/) qui contient un tutoriel d'installation pour Linux (Debian).
+* [Un tutoriel](https://klevh.github.io/SANDAL2/Docs/Tutorial.html).
+* [La documentation Doxygen](https://klevh.github.io/SANDAL2_Documentation/).
+Si les liens ne sont plus actifs, essayer de trouver le dépot via la barre de recherche Github. Le pseudo de l'auteur est 
+[Klevh](https://github.com/Klevh) et le nom du dépot est [SANDAL2](https://github.com/Klevh/SANDAL2).
