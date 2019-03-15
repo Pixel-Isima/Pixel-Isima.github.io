@@ -3,7 +3,7 @@ layout: post
 title: "Affichage graphique en C (SANDAL2)"
 date : 2019-01-14 10:28:30 +0200
 categories: tutorial
-summary: Vous trouvez l'affichage graphique en C verbeux, long à implémenté et peut pratique ? SANDAL2 devrait vous plaire.
+summary: Vous trouvez l'affichage graphique en C verbeux, long à implémenter et peu pratique ? SANDAL2 devrait vous plaire.
 ---
 
 # SANDAL2, un affichage graphique plus simple en C
